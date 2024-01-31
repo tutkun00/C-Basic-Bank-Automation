@@ -1,10 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-// 1.SINIF GUZ DONEMI FINAL PROJESI
-// BANKA OTOMASYONU
-//   23100011020
-// MUSTAFA SATI TUTKUN
-
 
 int bakiyesorgu();
 int parayatirma();
